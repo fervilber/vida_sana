@@ -15,9 +15,9 @@
 | 🥘 Recetas | 5 | 2026-05-13 |
 | 🏃 Ejercicio | 3 | 2026-05-13 |
 | 🩺 Salud | 0 | — |
-| 🔬 Conceptos | 5 | 2026-05-13 |
-| 📚 Fuentes | 8 | 2026-05-13 |
-| 👤 Autores | 4 | 2026-05-13 |
+| 🔬 Conceptos | 7 | 2026-05-13 |
+| 📚 Fuentes | 9 | 2026-05-13 |
+| 👤 Autores | 5 | 2026-05-13 |
 
 ---
 
@@ -48,14 +48,17 @@
 ## 🔬 Conceptos Científicos
 - [[ayuno_intermitente|Ayuno Intermitente (16/8, OMAD)]]
 - [[cancer_como_enfermedad_metabolica|Cáncer como Enfermedad Metabólica]]
+- [[disbiosis|Disbiosis Intestinal]]
 - [[flexibilidad_metabolica|Flexibilidad Metabólica]]
 - [[grasa_rebelde|Grasa Rebelde: Por Qué la Grasa no se Pierde Donde Quieres]]
 - [[hormesis|Hormesis: El Estrés que Genera Salud]]
+- [[microbiota|Microbiota Intestinal (Segundo Cerebro)]]
 
 ## 📚 Fuentes Procesadas
 - [[barra_libre|Libro: Barra Libre (Marcos Vázquez, 2017)]]
 - [[borja_bandera_dr_gascon_cancer_metabolico|Entrevista Dr. Pérez Gascón: El cáncer como enfermedad metabólica]]
 - [[de_cero_a_ceto|Libro: De Cero a Ceto (Marcos Vázquez, 2018)]]
+- [[dime_que_comes_y_te_dire_que_bacterias_tienes|Libro: Dime qué comes y te diré qué bacterias tienes (Blanca García-Orea, 2020)]]
 - [[ganar_musculo_es_imposible_si_entrenas_asi|Video: Ganar Músculo es Imposible Si Entrenas Así]]
 - [[deficit_invisible_elimina_grasa_sin_sentir_que_estas_a_dieta|Video: Déficit INVISIBLE: Elimina Grasa sin sentir que estás a dieta]]
 - [[el_entrenamiento_que_te_hace_perder_mas_grasa|Video: El Entrenamiento que te hace Perder Más Grasa]]
@@ -64,6 +67,7 @@
 
 ## 👤 Autores y Divulgadores
 - [[airam_fernandez|Airam Fernández]]
+- [[blanca_garcia_orea_haro|Blanca García-Orea Haro]]
 - [[borja_bandera|Dr. Borja Bandera]]
 - [[dr_perez_gascon|Dr. Pérez Gascón]]
 - [[marcos_vazquez|Marcos Vázquez (Fitness Revolucionario)]]

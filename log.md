@@ -68,4 +68,14 @@ Debe seguir el formato `## [YYYY-MM-DD] Acción | Descripción corta` para poder
   - `wiki/conceptos/ayuno_intermitente.md`
 - Notas: Extraídos en formato PDF. Fallaron archivos vacíos subidos accidentalmente (Invicto, Guerrera Espartana).
 
+## [2026-05-13] procesa | Libro: Dime qué comes y te diré qué bacterias tienes
+- Script: `epub_to_raw.py`
+- Fuente: `raw/2020-01-01_dime_que_comes_y_te_dire_que_bacterias_tienes_blanca_garcia_orea_haro.md`
+- Páginas creadas:
+  - `wiki/autores/blanca_garcia_orea_haro.md`
+  - `wiki/fuentes/dime_que_comes_y_te_dire_que_bacterias_tienes.md`
+  - `wiki/conceptos/microbiota.md`
+  - `wiki/conceptos/disbiosis.md`
+- Notas: Extracción de epub exitosa. Introducidos conceptos base de la microbiota intestinal, relación Firmicutes/Bacteroidetes y la importancia del butirato.
+
 ---
