@@ -123,12 +123,17 @@ python scripts/lint.py                    # Wiki completa
 python scripts/lint.py wiki/alimentacion  # Directorio específico
 
 # Ingesta de fuentes
-python scripts/youtube_to_raw.py "URL" "nombre"
-python scripts/pdf_to_raw.py "ruta.pdf"
+python scripts/youtube_to_raw.py "URL" "nombre"          # Transcripción de YouTube → raw/
+python scripts/epub_to_raw.py "ruta.epub" "nombre"       # Libro EPUB → raw/
+python scripts/pdf_to_raw.py "ruta.pdf"                  # PDF → raw/
 
 # Búsqueda en la wiki
 python scripts/search.py "término"
 ```
+
+> **epub_to_raw.py**: Convierte libros `.epub` a Markdown en `raw/`. Extrae metadatos automáticos
+> (título, autor, año, editorial), convierte cada capítulo a Markdown limpio y genera el mismo
+> frontmatter YAML que los demás scripts. Requiere: `pip install ebooklib html2text beautifulsoup4`
 
 ## Git Workflow
 

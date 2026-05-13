@@ -11,13 +11,13 @@
 | Sección | Notas | Última actualización |
 |---|---|---|
 | 🥦 Alimentación | 0 | — |
-| 🍽️ Dietas | 0 | — |
-| 🥘 Recetas | 0 | — |
-| 🏃 Ejercicio | 0 | — |
+| 🍽️ Dietas | 2 | 2026-05-13 |
+| 🥘 Recetas | 5 | 2026-05-13 |
+| 🏃 Ejercicio | 3 | 2026-05-13 |
 | 🩺 Salud | 0 | — |
-| 🔬 Conceptos | 0 | — |
-| 📚 Fuentes | 0 | — |
-| 👤 Autores | 0 | — |
+| 🔬 Conceptos | 3 | 2026-05-13 |
+| 📚 Fuentes | 6 | 2026-05-13 |
+| 👤 Autores | 3 | 2026-05-13 |
 
 ---
 
@@ -25,25 +25,42 @@
 <!-- El agente añade aquí las fichas de alimentos y nutrientes -->
 
 ## 🍽️ Dietas y Patrones Alimentarios
-<!-- El agente añade aquí las fichas de dietas -->
+- [[deficit_invisible|Déficit Invisible (Pérdida de Grasa sin Contar Calorías)]]
+- [[dieta_paleo|Dieta Paleo / Método Paleotraining]]
 
 ## 🥘 Recetas
-<!-- El agente añade aquí las recetas personalizadas -->
+- [[recetas_paleo_desayuno|Recetas Paleo — Desayunos]] *(plantilla + 20 recetas)*
+- [[recetas_paleo_almuerzo|Recetas Paleo — Almuerzos]] *(pescado, carne, ensaladas)*
+- [[recetas_paleo_cena|Recetas Paleo — Cenas]] *(cremas, pescados, carnes, postres)*
+- [[hamburguesas_caseras_paleo|Hamburguesas Caseras Paleo]] *(receta detallada)*
+- [[muesli_paleo|Muesli Paleo (sin cereales)]] *(receta detallada)*
+
 
 ## 🏃 Ejercicio
-<!-- El agente añade aquí los protocolos de entrenamiento -->
+- [[protocolo_hipertrofia_borja_bandera|Protocolo de Hipertrofia y Ganancia Muscular]]
+- [[protocolo_sprints_zona2_borja_bandera|Protocolo de Entrenamiento Polarizado (Sprints + Zona 2)]]
+- [[tablas_ejercicio_paleo|Tablas de Entrenamiento Paleo (sistemas, intensidades y duración)]]
 
 ## 🩺 Salud y Hábitos
 <!-- El agente añade aquí fichas de condiciones, hábitos y bienestar -->
 
 ## 🔬 Conceptos Científicos
-<!-- El agente añade aquí el glosario científico -->
+- [[cancer_como_enfermedad_metabolica|Cáncer como Enfermedad Metabólica]]
+- [[hormesis|Hormesis: El Estrés que Genera Salud]]
+- [[grasa_rebelde|Grasa Rebelde: Por Qué la Grasa no se Pierde Donde Quieres]]
 
 ## 📚 Fuentes Procesadas
-<!-- El agente añade aquí los resúmenes de libros, podcasts y videos -->
+- [[borja_bandera_dr_gascon_cancer_metabolico|Entrevista Dr. Pérez Gascón: El cáncer como enfermedad metabólica]]
+- [[ganar_musculo_es_imposible_si_entrenas_asi|Video: Ganar Músculo es Imposible Si Entrenas Así]]
+- [[deficit_invisible_elimina_grasa_sin_sentir_que_estas_a_dieta|Video: Déficit INVISIBLE: Elimina Grasa sin sentir que estás a dieta]]
+- [[el_entrenamiento_que_te_hace_perder_mas_grasa|Video: El Entrenamiento que te hace Perder Más Grasa]]
+- [[el_libro_del_metodo_paleo_airam_fernandez|Libro: El libro del método Paleo (Airam Fernández, 2016)]]
+- [[por_que_no_pierdes_grasa_en_los_lugares_que_deseas|Video: Por Qué NO PIERDES GRASA en los LUGARES que DESEAS]]
 
 ## 👤 Autores y Divulgadores
-<!-- El agente añade aquí las páginas de expertos -->
+- [[dr_perez_gascon|Dr. Pérez Gascón]]
+- [[borja_bandera|Dr. Borja Bandera]]
+- [[airam_fernandez|Airam Fernández]]
 
 ## 📝 Blog e Informes
 <!-- El agente añade aquí los informes bajo demanda -->
