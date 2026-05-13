@@ -11,13 +11,13 @@
 | Sección | Notas | Última actualización |
 |---|---|---|
 | 🥦 Alimentación | 0 | — |
-| 🍽️ Dietas | 2 | 2026-05-13 |
+| 🍽️ Dietas | 3 | 2026-05-13 |
 | 🥘 Recetas | 5 | 2026-05-13 |
 | 🏃 Ejercicio | 3 | 2026-05-13 |
 | 🩺 Salud | 0 | — |
-| 🔬 Conceptos | 3 | 2026-05-13 |
-| 📚 Fuentes | 6 | 2026-05-13 |
-| 👤 Autores | 3 | 2026-05-13 |
+| 🔬 Conceptos | 5 | 2026-05-13 |
+| 📚 Fuentes | 8 | 2026-05-13 |
+| 👤 Autores | 4 | 2026-05-13 |
 
 ---
 
@@ -26,6 +26,7 @@
 
 ## 🍽️ Dietas y Patrones Alimentarios
 - [[deficit_invisible|Déficit Invisible (Pérdida de Grasa sin Contar Calorías)]]
+- [[dieta_cetogenica|Dieta Cetogénica (Keto)]]
 - [[dieta_paleo|Dieta Paleo / Método Paleotraining]]
 
 ## 🥘 Recetas
@@ -45,12 +46,16 @@
 <!-- El agente añade aquí fichas de condiciones, hábitos y bienestar -->
 
 ## 🔬 Conceptos Científicos
+- [[ayuno_intermitente|Ayuno Intermitente (16/8, OMAD)]]
 - [[cancer_como_enfermedad_metabolica|Cáncer como Enfermedad Metabólica]]
-- [[hormesis|Hormesis: El Estrés que Genera Salud]]
+- [[flexibilidad_metabolica|Flexibilidad Metabólica]]
 - [[grasa_rebelde|Grasa Rebelde: Por Qué la Grasa no se Pierde Donde Quieres]]
+- [[hormesis|Hormesis: El Estrés que Genera Salud]]
 
 ## 📚 Fuentes Procesadas
+- [[barra_libre|Libro: Barra Libre (Marcos Vázquez, 2017)]]
 - [[borja_bandera_dr_gascon_cancer_metabolico|Entrevista Dr. Pérez Gascón: El cáncer como enfermedad metabólica]]
+- [[de_cero_a_ceto|Libro: De Cero a Ceto (Marcos Vázquez, 2018)]]
 - [[ganar_musculo_es_imposible_si_entrenas_asi|Video: Ganar Músculo es Imposible Si Entrenas Así]]
 - [[deficit_invisible_elimina_grasa_sin_sentir_que_estas_a_dieta|Video: Déficit INVISIBLE: Elimina Grasa sin sentir que estás a dieta]]
 - [[el_entrenamiento_que_te_hace_perder_mas_grasa|Video: El Entrenamiento que te hace Perder Más Grasa]]
@@ -58,9 +63,10 @@
 - [[por_que_no_pierdes_grasa_en_los_lugares_que_deseas|Video: Por Qué NO PIERDES GRASA en los LUGARES que DESEAS]]
 
 ## 👤 Autores y Divulgadores
-- [[dr_perez_gascon|Dr. Pérez Gascón]]
-- [[borja_bandera|Dr. Borja Bandera]]
 - [[airam_fernandez|Airam Fernández]]
+- [[borja_bandera|Dr. Borja Bandera]]
+- [[dr_perez_gascon|Dr. Pérez Gascón]]
+- [[marcos_vazquez|Marcos Vázquez (Fitness Revolucionario)]]
 
 ## 📝 Blog e Informes
 <!-- El agente añade aquí los informes bajo demanda -->

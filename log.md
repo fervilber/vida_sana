@@ -50,4 +50,22 @@ Debe seguir el formato `## [YYYY-MM-DD] Acción | Descripción corta` para poder
   - `wiki/fuentes/el_libro_del_metodo_paleo_airam_fernandez.md`
 - Notas: El libro contiene 69 recetas y 41 ejercicios en los anexos. Pendiente extraer más recetas.
 
+## [2026-05-13] procesa | Vídeo Grasa Rebelde (Borja Bandera)
+- Fuente: `raw/2025-07-18_por_que_no_pierdes_grasa_en_los_lugares_que_deseas.md`
+- Páginas creadas:
+  - `wiki/conceptos/grasa_rebelde.md`
+  - `wiki/fuentes/por_que_no_pierdes_grasa_en_los_lugares_que_deseas.md`
+- Notas: Explicación de fisiología sobre lipólisis y beta-oxidación.
+
+## [2026-05-13] procesa | Libros de Marcos Vázquez (Fitness Revolucionario)
+- Script: `pdf_to_raw.py` (De Cero a Ceto, Barra Libre)
+- Páginas creadas:
+  - `wiki/autores/marcos_vazquez.md`
+  - `wiki/fuentes/de_cero_a_ceto.md`
+  - `wiki/fuentes/barra_libre.md`
+  - `wiki/dietas/dieta_cetogenica.md`
+  - `wiki/conceptos/flexibilidad_metabolica.md`
+  - `wiki/conceptos/ayuno_intermitente.md`
+- Notas: Extraídos en formato PDF. Fallaron archivos vacíos subidos accidentalmente (Invicto, Guerrera Espartana).
+
 ---
