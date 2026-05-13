@@ -1,0 +1,23 @@
+# LLM Wiki — Dependencias Python
+
+# ─── Análisis de YAML ───────────────────────────────────────
+pyyaml>=6.0
+
+# ─── Transcripciones de YouTube (youtube_to_raw.py) ─────────
+youtube-transcript-api>=0.6
+
+# ─── Extracción de texto desde PDF (pdf_to_raw.py) ──────────
+# Instala AL MENOS UNA de las siguientes opciones:
+
+# Opción 1 (recomendada): PyMuPDF — rápido y preciso
+pymupdf>=1.23
+
+# Opción 2: pdfplumber — mejor rendimiento con tablas
+# pdfplumber>=0.10
+
+# Opción 3: PyPDF2 — ligero, solo como fallback
+# pypdf2>=3.0
+
+# ─── Opcional: búsqueda semántica futura ────────────────────
+# sentence-transformers>=2.2
+# numpy>=1.24

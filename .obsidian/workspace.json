@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "58c004081616ffe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e523d306ea697f55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd15c6e264bdd2dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/blog/2026-05-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-07"
+            }
+          },
+          {
+            "id": "ff2e626f5e74ce09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "raw/Wolters Kluwer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wolters Kluwer"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "661fda4c3468f9b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "63607b12c2d02be7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0102722affd57c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "63db1f689aca068c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "loterias",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "afe3036d04b83fa1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.5
+  },
+  "right": {
+    "id": "dbb22378c605f47c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6bc5efadbdffe53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f72d48d8a9b8cc9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/blog/assets/2026-05-08.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 2026-05-08"
+            }
+          },
+          {
+            "id": "75b0b42b45c7075d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/fuentes/Directo_Crucifixion_o_Resurreccion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Directo_Crucifixion_o_Resurreccion"
+            }
+          },
+          {
+            "id": "003938c7a10ce57e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8548ec62efd298bc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "80dd41e376b87647",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/fuentes/Directo_Crucifixion_o_Resurreccion.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Directo_Crucifixion_o_Resurreccion"
+            }
+          },
+          {
+            "id": "1122ff1c304cc18e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
+    }
+  },
+  "active": "ff2e626f5e74ce09",
+  "lastOpenFiles": [
+    "wiki/fuentes/2026-05-11_burbuja_ia_vs_calidad_alex_dito.md",
+    "raw/2026-05-11_2026_05_12_alex_dito_video.md",
+    "wiki/fuentes/2026-05-12_gorka_are_tesis_opciones.md",
+    "raw/2026-05-12_2026_05_12_gorka_are_tesis.md",
+    "wiki/autores/Baron_del_Dividendo.md",
+    "wiki/fuentes/2026-03-23_wolters_kluwer_tesis_baron_dividendo.md",
+    "raw/wolter_kluwer_tesis_2.md",
+    "raw/wolter-kluwer-tesis-2.pdf",
+    "wiki/blog/2026-05-10_informe_oportunidades_semanales.md",
+    "raw/Wolters Kluwer.md",
+    "wiki/empresas/Brown_and_Brown.md",
+    "wiki/autores/Ray_Dalio.md",
+    "wiki/autores/Bridgewater_Associates.md",
+    "wiki/autores/Inversor_Astur.md",
+    "wiki/conceptos_financieros/Via_Negativa.md",
+    "wiki/autores/Nassim_Nicholas_Taleb.md",
+    "wiki/conceptos_financieros/Flujo_de_Caja_de_Cartera.md",
+    "wiki/autores/Gorka.md",
+    "wiki/autores/Loco_del_Dividendo.md",
+    "wiki/autores/Cajurite.md",
+    "wiki/autores/Christopher_Mayer.md",
+    "wiki/autores/Dividend_Street.md",
+    "wiki/autores/Fernando_Ruiz_de_Velasco.md",
+    "wiki/autores/Francisco_Garcia_Parames.md",
+    "templates/autor.md",
+    "wiki/fuentes/2026-02-18_wolters_kluwer_analisis_guillem_vila.md",
+    "wiki/autores/Guillem_Vila.md",
+    "update_companies.py",
+    "process_7.py",
+    "wiki/blog/assets/2026-05-10.png",
+    "wiki/blog/assets/2026-05-10_informe_oportunidades_semanales_FDJ UNITED.png",
+    "wiki/blog/assets/2026-05-10_informe_oportunidades_semanales_FDJU.PA.png",
+    "wiki/graficos/2026-05-10-1años_FDJU.PA.png",
+    "wiki/graficos/2026-05-10-2años_FDJU.PA.png",
+    "raw/cotizaciones/FDJU.PA.csv",
+    "raw/cotizaciones/OWL.csv",
+    "raw/cotizaciones/LLY.csv",
+    "raw/cotizaciones/IIPR.csv",
+    "raw/cotizaciones/FDJ.PA.csv",
+    "wiki/graficos/2026-05-10-2años_JUB.HM.png",
+    "wiki/graficos/2026-05-10-2años_HIMS.png",
+    "wiki/graficos/2026-05-10-2años_AMS.MC.png",
+    "wiki/graficos/2026-05-10-2años_PYPL.png",
+    "wiki/graficos/2026-05-10-2años_PAYX.png",
+    "raw/cotizaciones/99U.F.csv",
+    "wiki/diagramas/flujo_trabajo_sistema.excalidraw",
+    "Sin título.canvas"
+  ]
+}
